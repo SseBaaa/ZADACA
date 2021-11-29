@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\projektttt\projektttt\obj\Debug\projektttt.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\projektttt\projektttt\obj\Debug\projektttt.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\projektttt\projektttt\bin\Debug\projektttt.exe.config
+C:\Users\sebas\source\repos\projektttt\projektttt\bin\Debug\projektttt.exe
+C:\Users\sebas\source\repos\projektttt\projektttt\bin\Debug\projektttt.pdb
+C:\Users\sebas\source\repos\projektttt\projektttt\obj\Debug\projektttt.exe
+C:\Users\sebas\source\repos\projektttt\projektttt\obj\Debug\projektttt.pdb
